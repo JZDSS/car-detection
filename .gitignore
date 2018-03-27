@@ -15,7 +15,7 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
+
 darknet
 .fuse*
 *.mp4
